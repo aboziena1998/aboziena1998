@@ -1,6 +1,6 @@
 # Hello, fellow developers! 👋
 
-I'm [Mahmoud Abozina], a self-taught frontend developer based in [Egypt]. Welcome to my GitHub profile!
+I'm Mahmoud Abozina, a self-taught frontend developer based in Egypt. Welcome to my GitHub profile!
 
 ## About Me
 
